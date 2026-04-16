@@ -1,7 +1,7 @@
 # ℹ️ Information
 
 - This is a production-style API, that acts like a digital library with jwt auth , postgresql db , redis token blocklist, and much more
-- Most of this project is actually made by using a step-by-step tutorial, look at "Reason for posting" to understand why i published it.
+- Part of this project is actually made by using a tutorial, look at "Reason for posting" to understand why i published it.
 
 # ❓ Reason for posting
 
